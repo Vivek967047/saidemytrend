@@ -1,6 +1,6 @@
 sonar.verbose=true
-sonar.organization=saidemy01-kkkeeeyyy
-sonar.projectKey=saidemy01-kkkeeeyyy_saidemytrend1
+sonar.organization=saidemy-kkkeeeyyy
+sonar.projectKey=saidemy-kkkeeeyyy_saidemytrend1
 sonar.projectName=saidemytrend1
 sonar.language=java
 sonar.sourceEncoding=UTF-8
